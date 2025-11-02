@@ -1,0 +1,13 @@
+[project]
+name = "camera-calibration"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10.3"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "opencv-python>=4.11.0.86",
+    "requests>=2.32.5",
+    "stereovision>=1.0.4",
+]

@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data files
+stereo_vision_data.zip
+stereo_vision_data/
+__MACOSX/
